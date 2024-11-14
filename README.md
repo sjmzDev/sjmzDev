@@ -48,14 +48,14 @@
 </div>
 
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SebaxMax&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sjmzDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-  ![sebaxmax's github stats](https://github-readme-stats.vercel.app/api?username=sebaxmax&count_private=true&show_icons=true&title_color=b118c9&icon_color=ff59ee&text_color=a0a0a0&bg_color=151515&hide=["stars"])
+  ![sjmzDev's github stats](https://github-readme-stats.vercel.app/api?username=sjmzDev&count_private=true&show_icons=true&title_color=b118c9&icon_color=ff59ee&text_color=a0a0a0&bg_color=151515&hide=["stars"])
   
   </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=SebaxMax&color=red" alt="SebaxMax" />
+<img src="https://komarev.com/ghpvc/?username=sjmzDev&color=red" alt="sjmzDev" />
  </p>
